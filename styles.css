@@ -1,0 +1,122 @@
+body{
+    background-color: #fe4f5a14;
+margin: 0;
+text-align: center;
+font-family: "Nunito", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+}
+
+a{
+    color: rgb(0, 119, 255);
+}
+
+header{
+background-color: #fe4f5aa3;
+color: white;
+padding-top: 25px;
+padding-bottom: 25px;
+font-size: 35px;
+letter-spacing: 0.6px;
+line-height: 30px;
+}
+
+article{
+    max-width: 850px;
+    margin: auto;
+    padding: 8px;
+    padding-top: 70px;
+    
+}
+
+.post-author{
+    color: #6C6C6C;
+    font-size: 12px;
+    line-height: 18px;
+    }
+
+.share-post, 
+.links-title{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+    }
+
+.share-post span{
+margin-right: 4px;
+}
+
+.share-post img{
+vertical-align: middle;
+}
+
+    .links-title{
+        margin-bottom: 12px;
+    }
+
+
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.hero-image{
+    margin: 50px 0;
+}
+
+.hero-image img{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+    h1{
+        margin: 0;
+        text-align: center;
+        font-size: 52px;
+        letter-spacing: 1px;
+        word-spacing: 1.6px;
+        line-height: 58px;
+
+
+    }
+   
+    #title-section{
+        margin-bottom: 50px;
+    }
+
+    #content-section{
+        max-width: 680px;
+        margin: auto;
+    }
+
+    iframe{
+        margin: 8px 0;
+        max-width: 100%;
+    }
+
+    footer{
+        background-color: #fe4f5aa3;
+        max-width: 300px;
+        margin: auto;
+        margin-bottom: 70px;
+        padding: 20px 15px;
+    }
+
+    footer a{
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 400;
+        
+    }
+    
+    footer ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    footer ul li:last-of-type{
+        margin-bottom: 0;
+    }
